@@ -532,38 +532,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\Photo.jpg" />
-    <None Include="Resources\add121.png" />
-    <None Include="Resources\create11.png" />
-    <None Include="Resources\close33.png" />
-    <None Include="Resources\rounded3.png" />
-    <None Include="Resources\microphone52 %281%29.png" />
     <None Include="Resources\microphone52.png" />
-    <None Include="Resources\background.png" />
-    <None Include="Resources\delete38.png" />
-    <None Include="Resources\delete38 %281%29.png" />
-    <None Include="Resources\verification5.png" />
-    <None Include="Resources\user91.png" />
-    <None Include="Resources\three115.png" />
-    <None Include="Resources\seo2.png" />
-    <None Include="Resources\rewind26.png" />
-    <None Include="Resources\reply.png" />
-    <None Include="Resources\next15.png" />
-    <None Include="Resources\next15 %281%29.png" />
-    <None Include="Resources\muted.png" />
-    <None Include="Resources\microphone44.png" />
-    <None Include="Resources\menu48.png" />
-    <None Include="Resources\market.png" />
-    <None Include="Resources\magnifier12.png" />
-    <None Include="Resources\machine2.png" />
-    <None Include="Resources\left164.png" />
-    <None Include="Resources\home63.png" />
-    <None Include="Resources\email20.png" />
-    <None Include="Resources\create1.png" />
-    <None Include="Resources\close13.png" />
-    <None Include="Resources\close11.png" />
-    <None Include="Resources\backward3.png" />
-    <None Include="Resources\back1.png" />
-    <None Include="Resources\arrow110.png" />
     <None Include="Resources\arrow3.png" />
     <None Include="Resources\Photo.jpg" />
   </ItemGroup>

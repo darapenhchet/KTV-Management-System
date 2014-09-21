@@ -118,14 +118,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KTVManagement.exe" size="446976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KTVManagement.exe" size="437248">
       <assemblyIdentity name="KTVManagement" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uFBACENX6IhD/kJPmXjVZaKDd369DXvyL37jYD+7z14=</dsig:DigestValue>
+        <dsig:DigestValue>uKkJRRgeyLK4NwizOCyMfhLmybjECE4gwEd+rHmlA0g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
